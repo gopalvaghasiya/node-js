@@ -1,6 +1,4 @@
-// i will make a changes because of git learning
 
-//pipe
 var http=require('http');
 var fs=require('fs');
 
